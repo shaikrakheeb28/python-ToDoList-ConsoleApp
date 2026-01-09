@@ -25,4 +25,4 @@ This is a simple console-based To-Do List application written in Python.
 
 ## Author
 
-Name: Sekhar Metla (www.harisystems.com)
+Name: Shaik Rakheeb (https://github.com/shaikrakheeb28)
